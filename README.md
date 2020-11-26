@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajput" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunrajput" alt="tarunrajput" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunrajput" alt="tarunrajput" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [tarunrajput.netlify.app](tarunrajput.netlify.app)
 
