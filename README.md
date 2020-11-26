@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunrajput" alt="tarunrajput" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/notorious__kid" target="blank"><img src="https://img.shields.io/twitter/follow/notorious__kid?logo=twitter&style=for-the-badge" alt="notorious__kid" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [tarunrajput.netlify.app](tarunrajput.netlify.app)
 
-- 📫 How to reach me **tarunrajput1337@gmail.com**
+- 📫 Reach me at **tarunrajput1337@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
