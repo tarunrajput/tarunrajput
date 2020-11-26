@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarun Chauhan</h1>
 <h3 align="center">I like to build and break Apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajput" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunrajput" alt="tarunrajput" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajput" /> </p>
 
 - 👨‍💻 All of my projects are available at [tarunrajput.netlify.app](tarunrajput.netlify.app)
 
