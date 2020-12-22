@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun Chauhan</h1>
 <h3 align="center">I like to build and break Apps.</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" width=300 /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunrajput" alt="tarunrajput" /></a> </p>
 
