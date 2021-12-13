@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajput" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tarunrajput.netlify.app](https://tarunrajput.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tarunchauhan.me](https://tarunchauhan.me)
 
 - 📫 How to reach me **tarunrajput1337@gmail.com**
 
-- 📄 Know about my experiences [https://tarunrajput.netlify.app/resume.pdf](https://tarunrajput.netlify.app/resume.pdf)
+- 📄 Know about my experiences [https://tarunchauhan.me/resume.pdf](https://tarunchauhan.me/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/notorious__kid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="notorious__kid" height="30" width="40" /></a>
+<a href="https://twitter.com/milquebiscuit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="notorious__kid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarunchauhan98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tarunchauhan98" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14347864" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14347864" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tarunrajput1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tarunrajput1337" height="30" width="40" /></a>
