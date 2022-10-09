@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tarunrajput1337@gmail.com**
 
-- 📄 Know about my experiences [https://tarunchauhan.me/resume.pdf](https://tarunchauhan.me/resume.pdf)
+- 📄 Know about my experiences [https://tarunrajput.me/tarun-chauhan-resume.pdf](https://tarunchauhan.me/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
