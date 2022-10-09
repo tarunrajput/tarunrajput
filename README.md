@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tarunrajput" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tarunchauhan.me](https://tarunchauhan.me)
+- 👨‍💻 All of my projects are available at [https://tarunrajput.me](https://tarunrajput.me)
 
 - 📫 How to reach me **tarunrajput1337@gmail.com**
 
-- 📄 Know about my experiences [https://tarunrajput.me/tarun-chauhan-resume.pdf](https://tarunchauhan.me/resume.pdf)
+- 📄 Know about my experiences [https://tarunrajput.me/tarun-chauhan-resume.pdf](https://tarunrajput.me/tarun-chauhan-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
