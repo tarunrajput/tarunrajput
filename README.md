@@ -105,6 +105,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunrajput&show_icons=true&locale=en&layout=compact" alt="tarunrajput" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tarunrajput&show_icons=true&locale=en" alt="tarunrajput" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tarunrajput&show_icons=true&locale=en" alt="tarunrajput" /></p> -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrajput&" alt="tarunrajput" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrajput&" alt="tarunrajput" /></p> -->
