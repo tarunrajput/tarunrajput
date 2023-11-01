@@ -2,11 +2,11 @@
 <h3 align="center">I like to build and break Apps.</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" width=300 /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tarunrajput.me](https://tarunrajput.me)
+- 👨‍💻 All of my projects are available at [https://tarunrajput.tech](https://tarunrajput.tech)
 
 - 📫 How to reach me **tarunrajput1337@gmail.com**
 
-- 📄 Know about my experiences [https://tarunrajput.me/tarun-chauhan-resume.pdf](https://tarunrajput.me/tarun-chauhan-resume.pdf)
+- 📄 Know about my experiences [https://tarunrajput.tech/tarun-chauhan-resume.pdf](https://tarunrajput.tech/tarun-chauhan-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
